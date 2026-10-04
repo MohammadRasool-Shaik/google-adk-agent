@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: finance-agent
+  config:
+    import: optional:file:.env
